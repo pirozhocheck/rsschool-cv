@@ -16,7 +16,7 @@ _Telegram_: @pirozhocheck
 3. Learning Coding (mobile app "Mimo")
 
 ## **About me**
-I realized i didn't want to become a teacher after 2 years of studying in my dreams university. I like to challenge myself and learn new things. That's why I am here.
+I realized i didn't want to become a teacher after 2 years of studying in my dream university. I like to challenge myself and learn new things. That's why I am here.
 I can work in noisy places, also I'm pretty good at video and photo editing and I can quickly and easily join new team/group.
 
 ## **Code example**
