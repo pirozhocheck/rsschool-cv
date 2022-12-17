@@ -1,4 +1,4 @@
-main {
+body {
     background-color: #EDEBEB;
 }
 .list {
@@ -11,7 +11,10 @@ main {
 .info {
     color: #54382a;
 }
-.js {
-    background-color: #EDEBEB;
-    color: #3884aa;
+header {
+    color: #13679E;
+    font-size: larger;
+}
+h3 {
+    color: #13679E;
 }
