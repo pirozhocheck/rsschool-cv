@@ -1,3 +1,17 @@
-.contacts {
+main {
+    background-color: #EDEBEB;
+}
+.list {
     color: #c88a6d;
+}
+:any-link {
+    color: #c88a6d;
+    text-decoration: none;
+}
+.info {
+    color: #54382a;
+}
+.js {
+    background-color: #EDEBEB;
+    color: #3884aa;
 }
