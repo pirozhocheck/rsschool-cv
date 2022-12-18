@@ -1,9 +1,6 @@
 body {
     background-color: #EDEBEB;
     font-family:'Gill Sans', sans-serif;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
 }
 .list {
     color: #c88a6d;
