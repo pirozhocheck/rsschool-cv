@@ -1,20 +1,33 @@
 body {
     background-color: #EDEBEB;
+    font-family:'Gill Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .list {
     color: #c88a6d;
+    font-family:'Gill Sans', sans-serif;
 }
 :any-link {
     color: #c88a6d;
     text-decoration: none;
+    font-family:'Gill Sans', sans-serif;
 }
 .info {
-    color: #54382a;
+    color:  #c88a6d;
+    font-family:'Gill Sans', sans-serif;
 }
 header {
-    color: #13679E;
+    color: #54382a;
     font-size: larger;
+    font-family:'Gill Sans', sans-serif;
 }
 h3 {
-    color: #13679E;
+    color: #54382a;
+    font-family:'Gill Sans', sans-serif;
+}
+h2  {
+    color: #54382a;
+    font-family:'Gill Sans', sans-serif;
 }
