@@ -1,0 +1,30 @@
+body {
+    background-color: #EDEBEB;
+    font-family:'Gill Sans', sans-serif;
+}
+.list {
+    color: #c88a6d;
+    font-family:'Gill Sans', sans-serif;
+}
+:any-link {
+    color: #c88a6d;
+    text-decoration: none;
+    font-family:'Gill Sans', sans-serif;
+}
+.info {
+    color:  #c88a6d;
+    font-family:'Gill Sans', sans-serif;
+}
+header {
+    color: #54382a;
+    font-size: larger;
+    font-family:'Gill Sans', sans-serif;
+}
+h3 {
+    color: #54382a;
+    font-family:'Gill Sans', sans-serif;
+}
+h2  {
+    color: #54382a;
+    font-family:'Gill Sans', sans-serif;
+}
