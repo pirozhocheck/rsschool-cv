@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pirozhocheck.github.io/rsschool-cv/cv
