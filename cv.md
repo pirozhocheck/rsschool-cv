@@ -16,6 +16,9 @@ _Telegram_: @pirozhocheck
 4. RS School (2022)
 
 ## **About me**
+
+My name's Iana. I'm 20 yo. After two years of studying in me dream university I no longer wanted to be a teacher and left my University. I took a gap year to find myself a new hobby or a job and wasn't successful in it. So now I'm trying myself in IT hoping that it's something that i'll like 
+
 ## **Code example**
 
 ```
@@ -35,6 +38,9 @@ _Telegram_: @pirozhocheck
 ```
 
 ## **Work Experience**
+1. Tutor
+2. Private English and French teacher
+3. Babysitter
 
 ## **Languages**
 
