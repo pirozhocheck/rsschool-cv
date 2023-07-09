@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ol>
+          <li><a href="#cont">Contacts</a></li>
+          <li><a href="#about">About me</a></li>
+          <li><a href="#educ">Education</a></li>
+          <li><a href="#code">Code example</a></li>
+          <li><a href="#lang">Languages</a></li>
+          <li><a href="#proj">Projects</a></li>
+          <li><a href="#skills">My skills</a></li>
+        </ol>
+      </nav>
+    </header>
+    <main>
+      <h1>Iana Pavlova</h1>
+      <a><img src="assets/img/me.jpg" alt="My photo" width="260"></a>
+      <div id="about">
+        <h2>About me</h2>
+        <pre>
+    My name's <b>Iana</b>. 
+    I'm 20 yo. 
+    I live in <b>Belgrade, Serbia</b>.
+    After two years of studying in my dream university 
+    I no longer wanted to be a teacher.
+    I left my University,
+    I took a gap year to find myself a new hobby or a job
+    Wasn't successful in it. 
+    So now I'm trying myself in IT 
+    Hoping that it's something that i'll like
+        </pre>
+      </div>
+      <div id="cont">
+        <h2>Contacts</h2>
+        <ul>
+          <li><a><img src="assets/img/tele.png" alt="Telegram" width="30">pirozhocheck</a></li>
+          <li><a><img src="assets/img/discord.png" alt="Discord" width="30">Pirozhocheck_#5227</a></li>
+          <li><a><img src="assets/img/inst.png" alt="Instagram" width="30">Pirozhocheck_</a></li>
+        </ul>
+      </div>
+      <div id="skills">
+        <h2>My skills</h2>
+        <ul>
+          <li>I can work when there is chaos and panic around</li>
+          <li>Not stress resistant</li>
+          <li>I give up after the first difficulty</li>
+          <li>Burn out quickly</li>
+          <li>Patient and friendly with people</li>
+          <li>Always want to learn something new</li>
+          <li>I play the guitar</li>
+        </ul>
+      </div>
+      <div id="educ">
+        <h2>Education</h2>
+        <ul>
+          <li>Moscow State Linguistic Universit (didn't finish)</li>
+          <li>CS50. Learn computer Science</li>
+          <li>HTML Basics (mobile app "Mimo")</li>
+          <li>HTML Basics (mobile app "Mimo")</li>
+        </ul>
+      </div>
+      <div id="lang">
+        <h2>Languages</h2>
+        <ul>
+          <li>Russian - native</li>
+          <li>English - B1+</li>
+          <li>French - B1</li>
+          <li>German - A1</li>
+          <li>Serbian - A1</li>
+        </ul>
+      </div>
+      <div id="proj">
+        <h2><a href="https://pirozhocheck.github.io/rsschool-cv/" width="23px">My cv project</a></h2>
+      </div>
+      <div id="code">
+        <code>
+          <pre>
+            const isPrime = (number) => {
+              if (number &lt; 2) {
+                return false;
+              }
+              for (let i = 2; i &lt;= number / 2; i += 1) {
+                if (number % i === 0) {
+                  return false;
+                }
+              }
+              return true;
+            };
+          </pre>
+        </code>
+      </div>
+    </main>
+    <footer>
+      <p><a href="https://github.com/pirozhocheck"><img src=assets/img/github.png alt="My github" width="40" height="40"></a></p>
+      <p><a href="https://rs.school/js/"><img src="assets/img/logo.svg" alt="Logo RSSchool" width="80" height="40"></a></p>
+      <p>@2023</p>
+    </footer>
+  </body>
+</html>
