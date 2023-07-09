@@ -19,6 +19,21 @@
       <h2>About me</h2>
       <h2>Languages</h2>
       <h2>Work experience</h2>
+      <code>
+        <pre>
+          const isPrime = (number) => {
+            if (number < 2) {
+              return false;
+            }
+            for (let i = 2; i <= number / 2; i += 1) {
+              if (number % i === 0) {
+                return false;
+              }
+            }
+            return true;
+          };
+        </pre>
+      </code>
     </main>
     <footer>
     </footer>
